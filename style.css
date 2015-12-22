@@ -26,3 +26,8 @@ img{
     width: 350px;
     height: 350px;
 }
+body{
+    background: url("http://thumbs.dreamstime.com/x/realistic-vertical-basketball-court-illustration-hardwood-textured-eps-file-contains-transparencies-63252017.jpg");
+    background-repeat:no-repeat;
+    background-size:700px;
+}
